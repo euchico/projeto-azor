@@ -21,8 +21,6 @@ Ele existe para esclarecer os seguintes pontos:
 
 ---
 
-Posicionamento:
-- Sentença de Posição do Produto
 
 Partes Interessadas:
 - Envolvidos
@@ -79,20 +77,27 @@ Embora o Projeto Azor não tenha como objetivo inicial se tornar um produto come
   </tr>
 </table>
 
-### 3.3. Sentença de Posição do Produto
+## 4. Partes Interessadas
 
+### 4.1. Envolvidos
 
-## Por que este projeto existe?
+| Nome | Descrição | Responsabilidades |
+|:----:|:----------|:------------------|
+| **Francisco de Paula** | Desenvolvedor responsável pelo Projeto Azor. Atua como idealizador, desenvolvedor e mantenedor do sistema. | Concepção do projeto, desenvolvimento do software, definição de arquitetura, implementação das funcionalidades, testes, documentação e evolução contínua do sistema. |
+| **Bárbara Benedito** | Apoio consultivo prestado com conhecimento em finanças e banco de dados. | Auxílio na validação de conceitos financeiros, revisão de regras de negócio, sugestões de modelagem de dados e apoio conceitual nas decisões relacionadas ao domínio financeiro. |
+| **Ferramentas de IA** | Ferramentas de Inteligência Artificial utilizadas como suporte ao desenvolvimento. | Revisão de código, esclarecimento conceitual, sugestão de melhorias e análise de alternativas técnicas, sem autoria direta do código. |
 
-O Projeto Azor existe para ser um ambiente de aprendizado contínuo,
-onde erros são esperados, refatorações são bem-vindas e o foco principal
-é o crescimento técnico e profissional do desenvolvedor.
+## 5. Principais Questões
+
+### 5.1. Por que este projeto existe?
+
+O Projeto Azor existe para ser um ambiente de aprendizado contínuo, onde erros são esperados, refatorações são bem-vindas e o foco principal é o crescimento técnico e profissional do desenvolvedor. Para criar uma ferramenta de auxilio na organização pessoal e principalmente financeira.
 
 Este projeto não tem objetivo comercial.
 
 ---
 
-## O que o Azor é?
+### 5.2. O que o Azor é?
 
 - Um ERP pessoal
 - Um projeto de estudo de longo prazo
@@ -101,7 +106,7 @@ Este projeto não tem objetivo comercial.
 
 ---
 
-## O que o Azor NÃO é?
+### 5.3. O que o Azor NÃO é?
 
 - Um produto comercial
 - Um projeto com prazo fechado
@@ -110,7 +115,7 @@ Este projeto não tem objetivo comercial.
 
 ---
 
-## Princípios Inegociáveis
+## 5.4. Princípios Inegociáveis
 
 - O domínio vem antes da tecnologia
 - Simplicidade é prioridade
