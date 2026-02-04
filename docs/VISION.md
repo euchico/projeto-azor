@@ -1,7 +1,7 @@
 # Projeto Azor — Documento de Visão (Resumido)
 
 **Versão:** 0.1  
-**Data:** 04/01/2025  
+**Data:** 03/02/2025  
 **Autor:** Francisco de Paula  
 
 ---
@@ -20,13 +20,6 @@ Ele existe para esclarecer os seguintes pontos:
 - Principais Questões
 
 ---
-
-
-Partes Interessadas:
-- Envolvidos
-- Usuários
-
-Questões
 
 ## 2. Visão Geral do Projeto
 
@@ -77,49 +70,73 @@ Embora o Projeto Azor não tenha como objetivo inicial se tornar um produto come
   </tr>
 </table>
 
+---
+
 ## 4. Partes Interessadas
 
 ### 4.1. Envolvidos
 
-| Nome | Descrição | Responsabilidades |
-|:----:|:----------|:------------------|
-| **Francisco de Paula** | Desenvolvedor responsável pelo Projeto Azor. Atua como idealizador, desenvolvedor e mantenedor do sistema. | Concepção do projeto, desenvolvimento do software, definição de arquitetura, implementação das funcionalidades, testes, documentação e evolução contínua do sistema. |
-| **Bárbara Benedito** | Apoio consultivo prestado com conhecimento em finanças e banco de dados. | Auxílio na validação de conceitos financeiros, revisão de regras de negócio, sugestões de modelagem de dados e apoio conceitual nas decisões relacionadas ao domínio financeiro. |
-| **Ferramentas de IA** | Ferramentas de Inteligência Artificial utilizadas como suporte ao desenvolvimento. | Revisão de código, esclarecimento conceitual, sugestão de melhorias e análise de alternativas técnicas, sem autoria direta do código. |
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Descrição</th>
+        <th>Responsabilidades</th>
+    </tr>
+    <tr>
+        <td><b>Francisco de Paula</b></td>
+        <td>Desenvolvedor responsável pelo Projeto Azor. Atua como idealizador, desenvolvedor e mantenedor do sistema.</td>
+        <td>Concepção do projeto, desenvolvimento do software, definição de arquitetura, implementação das funcionalidades, testes, documentação e evolução contínua do sistema.</td>
+    </tr>
+    <tr>
+        <td><b>Bárbara Benedito</b></td>
+        <td>Apoio através do papel de consultora com conhecimento em finanças e banco de dados.</td>
+        <td>Revisão de código, esclarecimento conceitual, sugestão de melhorias e análise de alternativas técnicas, sem autoria direta do código.</td>
+    </tr>
+</table>
+
+### 4.2. Usuários
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Descrição</th>
+        <th>Responsabilidades</th>
+    </tr>
+    <tr>
+        <td><b>Usuários</b></td>
+        <td>Todo indivíduo, empreendedor ou não, que busca uma ferramenta para auxiliar na organização pessoal com ênfase no planejamento e controle da vida financeira.</td>
+        <td>Interagir com o sistema preenchendo seus dados e realizando a parametrização necessária para receber as informações que apoiam a tomada de decisão.</td>
+    </tr>
+</table>
+
+---
 
 ## 5. Principais Questões
 
 ### 5.1. Por que este projeto existe?
 
-O Projeto Azor existe para ser um ambiente de aprendizado contínuo, onde erros são esperados, refatorações são bem-vindas e o foco principal é o crescimento técnico e profissional do desenvolvedor. Para criar uma ferramenta de auxilio na organização pessoal e principalmente financeira.
+O Projeto Azor existe como um ambiente de aprendizado contínuo, onde erros são esperados, refatorações são bem-vindas e o foco principal é o crescimento técnico e profissional, por meio da construção de um sistema real que sirva como portfólio e demonstração de competências.
 
-Este projeto não tem objetivo comercial.
-
----
+Ao mesmo tempo, busca ser uma ferramenta útil para minha organização e rotina diária.
 
 ### 5.2. O que o Azor é?
 
-- Um ERP pessoal
-- Um projeto de estudo de longo prazo
-- Um laboratório de arquitetura e boas práticas
-- Um repositório de aprendizado prático
-
----
+- Um ERP pessoal.
+- Um projeto de estudo de longo prazo.
+- Um laboratório de arquitetura e boas práticas.
+- Um repositório de aprendizado prático.
 
 ### 5.3. O que o Azor NÃO é?
 
-- Um produto comercial
-- Um projeto com prazo fechado
-- Um sistema “perfeito”
-- Um projeto guiado por hype tecnológico
+- Um produto comercial.
+- Um projeto com prazo fechado.
+- Um sistema “perfeito”.
+- Um projeto guiado por hype tecnológico.
 
----
+### 5.4. Princípios Inegociáveis
 
-## 5.4. Princípios Inegociáveis
-
-- O domínio vem antes da tecnologia
-- Simplicidade é prioridade
-- Cada etapa deve fazer sentido sozinha
-- Código deve ser compreensível meses depois
-- Aprendizado > Velocidade
-
+- O domínio segue lado a lado com a tecnologia.
+- Simplicidade é prioridade.
+- Cada etapa deve fazer sentido sozinha.
+- Código deve ser compreensível meses depois.
+- Aprendizado é mais importante que velocidade.
